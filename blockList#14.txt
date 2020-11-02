@@ -1,0 +1,9 @@
+OnChain : 0 : SimBlock.block.SampleProofOfStakeBlock@14fdd52
+OnChain : 1 : SimBlock.block.SampleProofOfStakeBlock@8b04df
+OnChain : 2 : SimBlock.block.SampleProofOfStakeBlock@14091c7
+OnChain : 3 : SimBlock.block.SampleProofOfStakeBlock@127aaf2
+OnChain : 4 : SimBlock.block.SampleProofOfStakeBlock@67362
+OnChain : 5 : SimBlock.block.SampleProofOfStakeBlock@1cd9159
+Orphan : 14 : SimBlock.block.SampleProofOfStakeBlock@13b4f9e
+OnChain : 6 : SimBlock.block.SampleProofOfStakeBlock@1f1859b
+OnChain : 7 : SimBlock.block.SampleProofOfStakeBlock@5ca798
